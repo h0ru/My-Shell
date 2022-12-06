@@ -1,6 +1,6 @@
 # What is a Shell?
 > - Shell is a program whose function is to provide an interface for users of an operating system to access kernel services. 
-> - In general, operating system shells use either a command line interface (CLI) or a graphical user interface (GUI). 
+> - In general, operating system shells use a command line interface (CLI) or a graphical user interface (GUI). 
 > - It's called a shell because it's the outermost layer around the operating system. 
 > #### More information: [Wikipedia-Shell](https://en.wikipedia.org/wiki/Shell_%28computing%29)
 ---
