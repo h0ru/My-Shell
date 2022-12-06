@@ -1,6 +1,6 @@
 # My Shell
 > * What is a Shell?
-> * What is Netcat?
+> * What is the Netcat?
 > * Reverse Shell and Bind Shell
 > * Simple script for reverse shells [Myrevshell](https://github.com/h0ru/My-Shell/blob/main/myrevshell.sh)
 > * 👉 [Guide English Version](https://github.com/h0ru/My-Shell/blob/main/Guide-en.md)
