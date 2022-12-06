@@ -5,7 +5,7 @@
 > #### More information: [Wikipedia-Shell](https://en.wikipedia.org/wiki/Shell_%28computing%29)
 ---
 
-# What is Netcat? 
+# What is the Netcat? 
 > - Considered the Swiss army knife of TCP/IP, Netcat is a networking tool used to read and write data over the network using TCP or UDP protocols. 
 > ### Types:
 > - [Ncat](https://nmap.org/ncat/)
